@@ -15,7 +15,7 @@ Our main objective is to create a model that when given a tweet or series of twe
 
 ## Data Understanding
 
-We will be using a dataset from data.world provided by CrowdFlower which has tweets about Apple and Google from the South by Southwest (SXSW) conference. It can be found from data world (here).[https://data.world/crowdflower/brands-and-product-emotions]
+We will be using a dataset from data.world provided by CrowdFlower which has tweets about Apple and Google from the South by Southwest (SXSW) conference. It can be found from data world [here](https://data.world/crowdflower/brands-and-product-emotions)
 
 Some initial analysis on the sentiments yielded that most reviews are neutral, with a decent number of Positive reviews and few negative results.
 <p align='center'>
