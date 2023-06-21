@@ -65,7 +65,7 @@ The frequency distribution for the top tokens 10 most occuring tokens is shown b
 
 We first engineered the problem into a binary classification problem by Oversampling from the `Positive` and `Negative` sentiments only and modeling using test and train data drawn from these samples. 
 After which we moved on to a build and evaluate multiple multi-class classifiers.
--> The best model obtained during the modelling and model evaluation process was **XGBoostClassifier** with a training accuracy of 84% and test accuracy of 64%
+- The best model obtained during the modelling and model evaluation process was **XGBoostClassifier** with a training accuracy of 84% and test accuracy of 64%
 
 We were able to reduce overfitting to some acceptable level through .
 
