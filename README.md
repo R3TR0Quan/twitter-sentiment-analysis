@@ -34,7 +34,7 @@ The frequency distribution for the top tokens 10 most occuring tokens is shown b
 </p>
 
 <p align='center'>
-    <b>Word Cloud
+    <b>Word Cloud</b>
     <img src='./images/wordcloud.png' alt='top_10_tokens'>
 </p>
 
