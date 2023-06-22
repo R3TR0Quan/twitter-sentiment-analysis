@@ -84,6 +84,6 @@ We were able to reduce overfitting to some acceptable level through hyperparamet
 Some other challenges are discussed in depth in the included writeup document.
 
 <p align='center'>
-    <b>File Hierarchy
+    <b>File Hierarchy</b>
     <img scr='./images/tree.png'>
 </p>
