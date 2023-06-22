@@ -33,6 +33,11 @@ The frequency distribution for the top tokens 10 most occuring tokens is shown b
     <img src='./images/top_tokens.png' alt='top_10_tokens'>
 </p>
 
+<p align='center'>
+    <b>Word Cloud
+    <img src='./images/wordcloud.png' alt='top_10_tokens'>
+</p>
+
 ### Summary of Sentiments from EDA
 
 **Praises** of Apple Products:
@@ -68,6 +73,9 @@ After which we moved on to a build and evaluate multiple multi-class classifiers
 - The best model obtained during the modelling and model evaluation process was **XGBoostClassifier** with a training accuracy of 84% and test accuracy of 64%
 
 We were able to reduce overfitting to some acceptable level through .
+<p align='center'>
+    <img src='./images/xgb_eval.png'>
+</p>
 
 
 ## Challenges
