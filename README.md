@@ -1,4 +1,4 @@
-# twitter-sentiment-analysis
+# Google/Apple product Tweet Sentiments Analysis
 Sentiment Analysis on tweets curated by Crowdflower.
 <p align='center'>
     <img src='./images/readme_banner.jpg' alt='banner'>
