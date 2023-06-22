@@ -85,4 +85,5 @@ Some other challenges are discussed in depth in the included writeup document.
 
 <p align='center'>
     <b>File Hierarchy
+    <img scr='./images/tree.png'>
 </p>
