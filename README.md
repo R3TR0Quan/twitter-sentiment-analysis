@@ -77,6 +77,7 @@ We were able to reduce overfitting to some acceptable level through hyperparamet
     <img src='./images/xgb_eval.png'>
 </p>
 
+However we would deploy the logistic regression due to its higher accuracy: `67%`
 
 ## Challenges
 
